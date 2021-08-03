@@ -1,0 +1,7 @@
+<keyw_datatype><id-abc>
+<keyw_datatype><id-b><delm;>
+<keyw_datatype><id-4c><delm;>
+<keyw_for><delm(><id-i><op_assign><id-1><delm;><id-i><id-lt><delm;><op_assign><id-4><delm;><id-i><op_incdec><delm)>
+<delm{>
+<id-i><op_incdec><delm;>
+<id-b><op_assign><id-5><op_incdec><id--6><delm;>
